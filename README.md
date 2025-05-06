@@ -15,4 +15,4 @@ I'm especially passionate about **optimizing backend architectures, scaling dist
 
 I'm currently looking for a **backend or full-stack engineering role**, where I can apply my expertise in **C++, Python, Go, and web technologies** to solve **scalability and performance challenges**.
 
-**Check out my work here, or let’s connect if you're looking for an engineer who learns fast and delivers impact.**
+**Check out my work here, or let’s connect if you're looking for an engineer who learns fast and delivers impact :)**
